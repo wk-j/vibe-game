@@ -47,7 +47,3 @@ cd vibe-game
 - High score tracking
 - Sound effects
 - Different game themes
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
